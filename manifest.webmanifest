@@ -1,0 +1,10 @@
+{
+  "name": "Crosslisting Assist Mobile",
+  "short_name": "Crosslisting",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#17212b",
+  "description": "Archivio mobile per annunci crosslisting"
+}
